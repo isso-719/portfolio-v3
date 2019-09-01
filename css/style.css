@@ -5,17 +5,17 @@
 
 @font-face {
   font-family: "ELIXIA";
-  src: url(/fonts/ELIXIA.ttf);
+  src: url(fonts/ELIXIA.ttf);
 }
 
 @font-face {
   font-family: "Manjari-Bold";
-  src: url(/fonts/Manjari-Bold.ttf);
+  src: url(fonts/Manjari-Bold.ttf);
 }
 
 @font-face {
   font-family: "Pacifico-Regular";
-  src: url(/fonts/Pacifico-Regular.ttf);
+  src: url(fonts/Pacifico-Regular.ttf);
 }
 
 /* #loader-bg {
