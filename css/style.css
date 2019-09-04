@@ -466,6 +466,10 @@ hr {
   height: 100%;
 }
 
+#tap_detail {
+  text-align: center;
+}
+
 footer {
   color: #ffffff;
   text-align: center;
